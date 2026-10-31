@@ -168,3 +168,5 @@ A full manual journey is documented in `docs/SMOKE_TEST.md`.
 - `docs/SMOKE_TEST.md` — end-to-end manual smoke test
 
 - .
+
+<!-- Cloudflare deployment trigger -->
