@@ -166,3 +166,5 @@ A full manual journey is documented in `docs/SMOKE_TEST.md`.
 - `DEVELOPMENT_STATUS.md` — verified state, bugs, next task
 - `TASKS.md` — phase checklist
 - `docs/SMOKE_TEST.md` — end-to-end manual smoke test
+
+- .
