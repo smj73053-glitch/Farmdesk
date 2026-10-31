@@ -1,0 +1,146 @@
+{
+  "app": {
+    "name": "फार्मडेस्क",
+    "tagline": "आपका खेत। आपका डेटा। बेहतर फैसले।",
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हो गया",
+    "retry": "फिर कोशिश करें",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "add": "जोड़ें",
+    "search": "खोजें",
+    "filter": "फिल्टर",
+    "back": "पीछे",
+    "next": "आगे",
+    "submit": "जमा करें",
+    "confirm": "पुष्टि करें",
+    "close": "बंद करें",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "noData": "डेटा उपलब्ध नहीं",
+    "lastUpdated": "अंतिम अपडेट",
+    "viewAll": "सभी देखें"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "weather": "मौसम",
+    "crops": "फसल बुद्धिमत्ता",
+    "market": "बाजार भाव",
+    "farm": "खेत प्रबंधन",
+    "expenses": "खर्च",
+    "income": "आय",
+    "cropLifecycle": "फसल जीवनचक्र",
+    "soil": "मिट्टी प्रबंधन",
+    "ai": "AI सहायक",
+    "reports": "रिपोर्ट",
+    "schemes": "सरकारी योजनाएं",
+    "knowledge": "ज्ञान",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफाइल",
+    "logout": "लॉग आउट"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "loginTitle": "वापसी पर स्वागत है",
+    "loginSubtitle": "अपने फार्मडेस्क खाते में साइन इन करें",
+    "signupTitle": "खाता बनाएं",
+    "signupSubtitle": "अपनी स्मार्ट खेती यात्रा शुरू करें",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "hasAccount": "पहले से खाता है?",
+    "noAccount": "खाता नहीं है?"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है",
+    "farmOverview": "खेत अवलोकन",
+    "weatherSummary": "मौसम सारांश",
+    "totalExpenses": "कुल खर्च",
+    "totalIncome": "कुल आय",
+    "netProfitLoss": "शुद्ध लाभ/हानि",
+    "thisMonth": "इस महीने"
+  },
+  "weather": {
+    "title": "मौसम बुद्धिमत्ता",
+    "subtitle": "आपके खेत के लिए रियल-टाइम मौसम और पूर्वानुमान",
+    "current": "वर्तमान मौसम",
+    "rainfall": "बारिश",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "wind": "हवा",
+    "alerts": "मौसम अलर्ट"
+  },
+  "expenses": {
+    "title": "खर्च",
+    "subtitle": "अपने खेती के खर्चों को ट्रैक करें",
+    "addExpense": "खर्च जोड़ें",
+    "totalExpenses": "कुल खर्च",
+    "categories": {
+      "seeds": "बीज",
+      "fertilizers": "उर्वरक",
+      "pesticides": "कीटनाशक",
+      "labour": "श्रम",
+      "machinery": "मशीनरी",
+      "irrigation": "सिंचाई",
+      "electricity": "बिजली",
+      "transportation": "परिवहन",
+      "fuel": "ईंधन",
+      "land_preparation": "भूमि तैयारी",
+      "equipment": "उपकरण",
+      "other": "अन्य"
+    }
+  },
+  "common": {
+    "acres": "एकड़",
+    "hectares": "हेक्टेयर",
+    "soilTypes": {
+      "alluvial": "जलोढ़",
+      "black": "काली (रेगुर)",
+      "red": "लाल",
+      "laterite": "लैटेराइट",
+      "sandy": "रेतीली",
+      "clay": "चिकनी मिट्टी",
+      "loamy": "दोमट",
+      "other": "अन्य"
+    },
+    "seasons": {
+      "kharif": "खरीफ (जून-अक्टू)",
+      "rabi": "रबी (नवं-मार्च)",
+      "zaid": "जायद (अप्रैल-जून)",
+      "annual": "वार्षिक"
+    }
+  },
+  "knowledge": {
+    "title": "ज्ञान",
+    "subtitle": "खेत मार्गदर्शिका और उपयोगी जानकारी"
+  },
+  "crops": {
+    "title": "फसल बुद्धिमत्ता"
+  },
+  "farm": {
+    "title": "खेत प्रबंधन"
+  },
+  "income": {
+    "subtitle": "अपनी खेती की आय दर्ज करें",
+    "title": "आय"
+  },
+  "landing": {
+    "hero": {
+      "cta": "मुफ़्त शुरू करें",
+      "secondary": "और जानें",
+      "subtitle": "वास्तविक समय के मौसम, बाजार भाव और फसल सिफ़ारिशों के साथ बेहतर निर्णय लेने में मदद करने वाला कृषि बुद्धिमत्ता मंच।",
+      "title": "स्मार्ट खेती यहीं से शुरू होती है"
+    }
+  },
+  "market": {
+    "title": "बाजार भाव"
+  },
+  "onboarding": {
+    "finish": "सेटअप पूरा करें",
+    "fullName": "पूरा नाम"
+  }
+}
